@@ -1,1 +1,1 @@
-# built a password generator using react framework.
+# Built a password generator using react framework.
